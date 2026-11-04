@@ -1,0 +1,1 @@
+{"branch":"kot/mw1pjjj0-263a3a","command":"git fetch origin main 2>/dev/null; git ls-tree -n origin/main 2>/dev/null | head -1 || echo \"main not found\""}
